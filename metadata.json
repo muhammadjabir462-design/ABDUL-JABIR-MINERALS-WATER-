@@ -1,0 +1,6 @@
+{
+  "name": "Abdul Jabir Water",
+  "description": "Mineral Water Ordering and Delivery app for Abdul Jabir Mineral Water. Browse 19L water bottles, place orders, and check delivery status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
